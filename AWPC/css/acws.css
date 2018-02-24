@@ -1,0 +1,13 @@
+#topbar .contact-info .fa-facebook {
+    padding-left: 20px;
+    margin-left: 20px;
+    border-left: 1px solid #e9e9e9;
+}
+
+#topbar .contact-info a:hover {
+    color: dodgerblue
+}
+
+#topbar .contact-info a .fa-facebook:hover{
+    color: dodgerblue
+}
